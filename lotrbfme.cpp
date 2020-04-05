@@ -1,7 +1,7 @@
 /*
 Created by: Istari`.
 Description: runs the BFMEI with the supplied params taken from the "lotrbfme_params.txt" file. Made it to work with Gameranger.
-Version: 3
+Version: 2.1
 */
 
 
