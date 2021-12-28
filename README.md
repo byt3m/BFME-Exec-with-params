@@ -4,3 +4,5 @@ Execute Lord of the Rings Battle For Middle Earth I with launch parameters (wind
 **WORKS WITH GAMERANGER.**
 
 *Updated to v2.1 to not show the default console window.*
+
+This repository is licensed under the GNU General Public License v3.0.
