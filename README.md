@@ -1,8 +1,12 @@
-# BFME-Exec-with-params
-Execute Lord of the Rings Battle For Middle Earth I with launch parameters (windowed mode, load mods, etc.).
+Made it so I can run BFME with parameters when using gameranger. This way I can load HD texture pack and any other mod that requires command line to be ran.
 
-**WORKS WITH GAMERANGER.**
+Current version: 2.0.0.2
 
-*Updated to v2.1 to not show the default console window.*
+How to install:
+	1. Go to the game's installation directory and rename the original game file "lotrbfme.exe" to "lotrbfme_.exe".
+	2. Extract BFME-Exec-with-params files to game's installation directory.
+	3. Run the game.
+
+Edit the variable called "execution_parameters" contained in file "lotrbfme_parameters.ini" to use the parameters you want.
 
 This repository is licensed under the GNU General Public License v3.0.
